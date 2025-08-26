@@ -33,3 +33,7 @@ Excel/CSV dataset for employee records.
 
 DAX and Power Query for calculations and data transformation.
 
+## Repository Structure
+Data: <a href "https://github.com/karan703712/Data_Analysis_Dashboard/blob/main/HR_Analytics.csv </a>
+ 
+
