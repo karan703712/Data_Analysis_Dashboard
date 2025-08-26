@@ -38,7 +38,16 @@ Data: https://github.com/karan703712/Data_Analysis_Dashboard/blob/main/HR_Analyt
 
 Dashboard: https://github.com/karan703712/Data_Analysis_Dashboard/blob/main/HR%20ANALYSIS%20USING%20POWER%20BI.pbix 
 
-images : https://github.com/karan703712/Data_Analysis_Dashboard/blob/main/img%201.png
+images : <img width="1324" height="762" alt="img 1" src="https://github.com/user-attachments/assets/4b9cc6f5-47a6-4741-b99c-44e4c9cae155" />
+
+<img width="1326" height="764" alt="img 2" src="https://github.com/user-attachments/assets/6a9979f1-f50e-4e9c-ba2a-f5e03bd846c5" />
+
+<img width="1331" height="773" alt="img 3" src="https://github.com/user-attachments/assets/b4215911-f05e-4109-af2c-e848248801bc" />
+
+<img width="1322" height="764" alt="img 4" src="https://github.com/user-attachments/assets/1f74c34a-250e-4222-8df5-f831a8619573" />
+
+
+
 
 
 
