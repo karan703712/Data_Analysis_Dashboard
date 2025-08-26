@@ -46,6 +46,16 @@ images : <img width="1324" height="762" alt="img 1" src="https://github.com/user
 
 <img width="1322" height="764" alt="img 4" src="https://github.com/user-attachments/assets/1f74c34a-250e-4222-8df5-f831a8619573" />
 
+## Future Scope
+
+Adding predictive analytics for attrition forecasting.
+
+Building automated pipelines for real-time updates.
+
+Expanding dashboard to include training and skill analysis.
+
+Integration with cloud platforms for enterprise deployment.
+
 
 
 
