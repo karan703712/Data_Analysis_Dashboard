@@ -46,7 +46,7 @@ images : <img width="1324" height="762" alt="img 1" src="https://github.com/user
 
 <img width="1322" height="764" alt="img 4" src="https://github.com/user-attachments/assets/1f74c34a-250e-4222-8df5-f831a8619573" />
 
-## Future Scope
+## 🌟 Future Scope
 
 Adding predictive analytics for attrition forecasting.
 
